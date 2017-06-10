@@ -8,4 +8,4 @@ Our conversations happen on [the GitHub Organization](https://github.com/package
 
 ### Code of Conduct
 
-package.community is covered by the [WeAllJS Code of Conduct](https://wealljs.org/code-of-conduct).
+package.community is covered by a [Code of Conduct](/code-of-conduct). Please be kind to one another, and happy hacking!
