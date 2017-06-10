@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+url: https://package.community
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
+  pages:
+    output: true
+    permalink: /:title
