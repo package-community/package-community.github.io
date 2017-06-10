@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+title: package.community
 url: https://package.community
 collections:
   posts:
