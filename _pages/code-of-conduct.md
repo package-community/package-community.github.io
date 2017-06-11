@@ -21,7 +21,7 @@ When reporting, please include any relevant details, links, screenshots, context
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as members of the WeAllJS community pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, technical preferences, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as members of the package.community community pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, technical preferences, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
@@ -106,23 +106,23 @@ The vast majority of situations work out like this, in our experience. This inte
 
 Sometimes, though, you need to get admins involved. Admins will do their best to resolve conflicts, but people who were harmed by something **will take priority**.
 
-> Patt: "Honestly, sometimes I just really hate using $library and anyone who uses it probably sucks at their job."
+> Patt: "Honestly, sometimes I just really hate using $language and anyone who uses it probably sucks at their job."
 
 > Alex: "Whoa there, could you dial it back a bit? There's a CoC thing about attacking folks' tech use like that."
 
 > Patt: "I'm not attacking anyone, are you deaf?"
 
-> Alex: "/admin hey uh. Can someone look at #javascript? Patt is getting a bit aggro. I tried to nudge them about it, but nope."
+> Alex: *DMs admin* "hey uh. Can someone look at #general? Patt is getting a bit aggro. I tried to nudge them about it, but nope."
 
 > MxAdmin1: <joins #general> "Hey Patt, admin here. Could you tone it down? This sort of attack is really not okay in this space."
 
 > Patt: "Leave me alone I haven't said anything bad wtf is wrong with you."
 
-> MxAdmin1: "/remove @patt", "/msg @patt I mean it. Please refer to the CoC over at wealljs.org/code-of-conduct if you have questions, but you can consider this an actual warning. I'd appreciate it if you reworded your messages in #javascript, since they made folks there uncomfortable. Let's try and be kind, yeah?"
+> MxAdmin1: *removes patt* *DMs patt* "I mean it. Please refer to the CoC over at package.community/code-of-conduct if you have questions, but you can consider this an actual warning. I'd appreciate it if you reworded your messages in #general, since they made folks there uncomfortable. Let's try and be kind, yeah?"
 
-> Patt: "/msg @mxadmin1 Okay sorry. I'm just frustrated and I'm kinda burnt out and I guess I got carried away. I'll DM Alex a note apologizing and edit my messages. Sorry for the trouble."
+> Patt: *Replies to DM* "@mxadmin1 Okay sorry. I'm just frustrated and I'm kinda burnt out and I guess I got carried away. I'll DM Alex a note apologizing and edit my messages. Sorry for the trouble."
 
-> MxAdmin1: "/msg @patt Thanks for that. I hear you on the stress. Burnout sucks :/.  Have a good one!"
+> MxAdmin1: *Replies to DM* "@patt Thanks for that. I hear you on the stress. Burnout sucks :/.  Have a good one!"
 
 #### The Nope Case
 
