@@ -130,11 +130,11 @@ Sometimes, though, you need to get admins involved. Admins will do their best to
 
 > Patt: "NOOOOPE. OH NOPE NOPE."
 
-> Alex: "JFC NO. NOPE. `/admin nope nope nope @ #javascript`"
+> Alex: "JFC NO. NOPE. *DMS Admin* `nope nope nope #general`"
 
 > MxAdmin1: "👀 Nope. NOPE NOPE NOPE. 🔥"
 
-> PepeTheFrog🐸 has been deactivated.
+> PepeTheFrog🐸 has been banned.
 
 ## Attribution
 
